@@ -121,6 +121,6 @@ This project provides valuable business insights, including:
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, SQL, and Power BI.
 
----
+-----
 
 ⭐ If you found this project useful, feel free to explore the repository.
