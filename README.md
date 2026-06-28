@@ -67,6 +67,10 @@ This project analyzes ecommerce sales data using Excel, SQL, and Power BI. The o
 
 ---------------
 
+##Business Value
+
+This project demonstrates how raw ecommerce sales data can be transformed into meaningful business insights using Excel, SQL, and Power BI. The dashboards and analysis help identify sales trends, profitable products, customer behavior, and business opportunities to support data-driven decision-making.
+
 ## Author
 
 **Kumari Duvvarapu**
