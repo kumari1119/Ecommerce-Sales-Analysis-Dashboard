@@ -87,15 +87,15 @@ This project provides valuable business insights, including:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](PowerBI_Dashboard.png)
+![PowerBI Dashboard](PowerBI_dashboard.png)
 
+### Power BI Dashboard 2
+
+![PowerBI Dashboard](PowerBI_dashboard_2.png)
 ### SQL Query Output
 
-![SQL Query Output](SQL_Query_Output.png)
+![SQL Query Output](query_1.png)
 
-### KPI Dashboard
-
-![KPI Dashboard](Pivot_Table.png)
 
 ---
 
