@@ -71,10 +71,10 @@ This project provides valuable business insights, including:
 
 | File | Description |
 |------|-------------|
-| Dataset.csv | Cleaned dataset used for analysis |
+| E_commerce_Cleaned_Dataset.xlsx | Cleaned dataset used for analysis |
 | Ecommerce_Sales_Dashboard.xlsx | Excel dashboard with Pivot Tables, KPIs, and Charts |
-| SQL_Queries.sql | SQL queries used for business analysis |
-| PowerBI_Dashboard.pbix | Interactive Power BI dashboard |
+| E_commerce_SQL_Queries.sql | SQL queries used for business analysis |
+| PowerBI_Dashboard.pbix | Interactive Power BI dashboards |
 | Business_Insights.pdf | Summary of key business insights and findings |
 
 ---
