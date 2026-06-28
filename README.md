@@ -1,78 +1,126 @@
-# Ecommerce-Sales-Analysis-Dashboard
-Data analysis project using Excel, SQL and Power BI
+# 📊 Ecommerce Sales Analysis Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes ecommerce sales data using Excel, SQL, and Power BI. The objective is to identify sales trends, profit performance, top-performing categories, customer purchasing behavior, and business insights through interactive dashboards and data analysis.
+The Ecommerce Sales Analysis Dashboard is a comprehensive Data Analytics project developed using Microsoft Excel, SQL, and Power BI. This project focuses on analyzing ecommerce sales data to uncover meaningful business insights, identify sales trends, evaluate profit performance, and support data-driven decision-making through interactive dashboards and visual reports.
 
+---
 
-------------------------
+## 🎯 Project Objectives
 
-## Tools Used
+- Analyze overall sales and profit performance.
+- Identify top-performing products and categories.
+- Compare regional sales performance.
+- Monitor key business KPIs.
+- Discover sales trends and customer purchasing patterns.
+- Generate business insights through data visualization.
 
-### Microsoft Excel
+---
 
-* Data cleaning and preprocessing
-* Pivot Tables and Pivot Charts
-* KPI calculations
-* Interactive dashboard creation
+## 🛠️ Tools Used
 
-### SQL
+### 📗 Microsoft Excel
+- Data Cleaning and Preprocessing
+- Pivot Tables
+- Pivot Charts
+- KPI Dashboard Creation
+- Interactive Excel Dashboard
 
-* Data extraction and filtering
-* Business analysis using SQL queries
-* Aggregate functions, GROUP BY, ORDER BY, WHERE, and JOIN operations
+### 🗄️ SQL
+- Data Extraction
+- Data Filtering
+- Aggregation
+- Business Analysis Queries
+- GROUP BY, ORDER BY, WHERE, JOIN, Aggregate Functions
 
-### Power BI
+### 📊 Power BI
+- Interactive Dashboard
+- Data Visualization
+- KPI Cards
+- Business Reports
+- Insightful Charts
 
-* Interactive dashboard development
-* Data visualization
-* KPI cards and business reports
-* Insightful charts and reports
+---
 
------------------
+## 📈 Key Performance Indicators (KPIs)
 
-## Project Features
+- Total Sales
+- Total Profit
+- Total Orders
+- Sales by Region
+- Category-wise Sales
+- Profit Analysis
+- Sales Trend Analysis
 
-* Sales Performance Analysis
-* Profit Analysis
-* KPI Dashboard
-* Category-wise Sales Analysis
-* Regional Sales Analysis
-* Interactive Visualizations
-* Business Insights
+---
 
----------------
+## 💡 Business Insights
 
-## Files Included
+This project provides valuable business insights, including:
 
-* **Dataset.csv** – Dataset used for analysis
-* **Ecommerce_Sales_Dashboard.xlsx** – Excel dashboard with Pivot Tables, KPIs, and charts
-* **SQL_Queries.sql** – SQL queries used for data analysis
-* **PowerBI_Dashboard.pbix** – Interactive Power BI dashboard
+- Top-performing products
+- High-profit categories
+- Regional sales comparison
+- Customer purchasing behavior
+- Sales growth trends
+- Profit optimization opportunities
 
---------------
+---
 
-## Skills Demonstrated
+## 📂 Project Files
 
-* Data Cleaning
-* Data Analysis
-* Microsoft Excel
-* SQL
-* Power BI
-* Data Visualization
-* KPI Dashboard Development
-* Business Intelligence
-* Problem Solving
+| File | Description |
+|------|-------------|
+| Dataset.csv | Cleaned dataset used for analysis |
+| Ecommerce_Sales_Dashboard.xlsx | Excel dashboard with Pivot Tables, KPIs, and Charts |
+| SQL_Queries.sql | SQL queries used for business analysis |
+| PowerBI_Dashboard.pbix | Interactive Power BI dashboard |
+| Business_Insights.pdf | Summary of key business insights and findings |
 
----------------
+---
 
-##Business Value
+## 🖼️ Dashboard Preview
 
-This project demonstrates how raw ecommerce sales data can be transformed into meaningful business insights using Excel, SQL, and Power BI. The dashboards and analysis help identify sales trends, profitable products, customer behavior, and business opportunities to support data-driven decision-making.
+### Excel Dashboard
 
-## Author
+![Excel Dashboard](Excel_Dashboard.png)
+
+### Power BI Dashboard
+
+![Power BI Dashboard](PowerBI_Dashboard.png)
+
+### SQL Query Output
+
+![SQL Query Output](SQL_Query_Output.png)
+
+### KPI Dashboard
+
+![KPI Dashboard](Pivot_Table.png)
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Visualization
+- KPI Dashboard Development
+- Business Intelligence
+- Business Insights
+- Analytical Thinking
+- Problem Solving
+
+---
+
+## 👩‍💻 Author
 
 **Kumari Duvvarapu**
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, SQL, and Power BI.
+
+---
+
+⭐ If you found this project useful, feel free to explore the repository.
